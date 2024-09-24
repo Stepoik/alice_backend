@@ -1,0 +1,10 @@
+1723278646: mosquitto version 2.0.18 starting
+1723278646: Config loaded from /mosquitto/config/mosquitto.conf.
+1723278646: Opening ipv4 listen socket on port 1883.
+1723278646: Opening ipv6 listen socket on port 1883.
+1723278646: mosquitto version 2.0.18 running
+1723280447: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1723282248: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1723284049: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1723284641: mosquitto version 2.0.18 terminating
+1723284641: Saving in-memory database to /mosquitto/data//mosquitto.db.
